@@ -1,0 +1,17 @@
+#posts {
+  .post {
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+    .post-avatar {
+      height: 50px;
+      background-color: #ccc;
+    }
+  }
+
+  i {
+    padding-right: 10px;
+    padding-left: 30px;
+    padding-top: 20px;
+  }
+}
